@@ -2,6 +2,8 @@
 
 The property file in src/test/resources is not recognized and the test fails.
 
+https://github.com/microsoft/vscode-java-test/issues/1311
+
 ## Environment:
 - OS: Windows10
 - VS Code: v1.60.2
